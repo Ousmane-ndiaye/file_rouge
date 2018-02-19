@@ -1,0 +1,13 @@
+#divRecherche {
+    width: 95%;
+    border: 2px solid black;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    position: absolute;
+    left: 30px;
+    bottom: -200px;
+}
+
+.rechForm {
+    margin-left: 5px;
+}
